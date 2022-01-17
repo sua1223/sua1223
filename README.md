@@ -39,7 +39,7 @@
   <a href="https://github.com/sua1223" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sua_1223/)](https://www.instagram.com/sua_1223/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooa9918@dgu.ac.kr)](mailto:sooa9918@dgu.ac.kr)
-
+<a href="https://velog.io/@sua1223"><img src="https://img.shields.io/badge/Velog-82F9B7?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sua1223"/></a>
   <br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sua1223&show_icons=true&theme=buefy)<br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sua1223)](https://hits.seeyoufarm.com) 
