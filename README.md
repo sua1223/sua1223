@@ -28,12 +28,6 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   <br><br>
   
-  <h1> 🏳‍🌈 42Seoul 🏳‍🌈 </h1>
-    
-  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sujang?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sujang)](https://github.com/JaeSeoKim/badge42)
-  <br><br>
-  
   <h1> 📬 Reach Me 📬  </h1>
   
   <a href="https://github.com/sua1223" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
